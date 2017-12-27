@@ -1,3 +1,6 @@
+##Hemanshu Singh
+#Week 1 Project 1 assignment, where I have draw 4 charts and saved in PNG file, file is kept in same directory. 
+
 #Read the txt file to a variable
 t <- read.table("C:/Personal/coursera-data-science/Exploratory Data Analysis/Project1/household_power_consumption.txt", header=TRUE, sep=";", na.strings = "?", colClasses = c('character','character','numeric','numeric','numeric','numeric','numeric','numeric','numeric'))
 
